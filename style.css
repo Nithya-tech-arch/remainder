@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+.page{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    width: 80%;
+    max-width: 900px;
+    margin: 50px auto;
+    text-align: center;
+   
+}
+
+h3 {
+    font-style: italic;
+}
+
+img{
+    clip: rect(0px,60px,200px,0px);
+    width: 300px;
+    overflow: hidden;
+}
